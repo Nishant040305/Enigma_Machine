@@ -4,3 +4,5 @@ same as that was used in world war 2 this program has rotors number which you ha
 will be stored in the text file but has connection with the program you can manipulate the files data and whatever you like to do there will be no errors
 the selected rotor number will be shown on the top of encrypted text 
 default rotor number is 0-0-0.
+Note that this program solely works on the same idea and same method of Original Enigma Machine (i.e. electricity flow in Loop so same as this A can not be encrypted as A ) 
+Interface is given an old asthetic look with the image of original device.
